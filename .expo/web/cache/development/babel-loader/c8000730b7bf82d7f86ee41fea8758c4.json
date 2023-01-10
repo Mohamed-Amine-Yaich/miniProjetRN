@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./SignInScreen\";","map":{"version":3,"names":["default"],"sources":["D:/react-native workSpace/vadimProjectNotjustDev/Printerest/PrinterestMyClone/screens/Auth/SignInScreen/index.ts"],"sourcesContent":["export { default } from './SignInScreen';"],"mappings":"AAAA,SAASA,OAAT"},"metadata":{},"sourceType":"module"}
